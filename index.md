@@ -1,8 +1,10 @@
 ---
-Author: Alana B Powell 
-Climate Data Science Portfolio
+title: "Climate Data Science Portfolio"
+author: "Alana B Powell"
+description: "An independent study in climate science and data analysis using Python"
 theme: minima
 ---
+
 Welcome to my portfolio website! I'm a computer science student at the University of Colorado Boulder with a background in environmental science and a passion for applying computational methods to climate research.
 
 About Me
