@@ -81,9 +81,7 @@ This section will be updated weekly with project developments, challenges, and l
 GitHub: [AlanaPowell](https://github.com/AlanaPowell)
 Email: alana.powell@colorado.edu
 LinkedIn: https://www.linkedin.com/in/alanabrookepowell/
-CV: <a href="./assets/AB_Powell_CV_2025.pdf" target="_blank" class="btn">
-  📄 Download Resume (PDF)
-</a>
+CV: [Download my Resume (PDF)](./Alana_Powell_Resume.pdf)
 Location: Richland, WA
 
 
