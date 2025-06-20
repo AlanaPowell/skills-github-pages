@@ -23,7 +23,7 @@ Laboratory: FTIR spectroscopy, soil analysis, marine specimen characterization
 Current Role: Environmental Scientist at TerraGraphics Environmental Engineering, where I perform research, data engineering, and manage multivariable datasets for environmental projects.
 
 Current Project: Interactive Climate Data Dashboard
-Last updated: 6/5/2025
+Last updated: 6/19/2025
 
 ---
 
@@ -78,9 +78,12 @@ This section will be updated weekly with project developments, challenges, and l
 
 ## Connect With Me
 
-GitHub: AlanaPowell
+GitHub: [AlanaPowell](https://github.com/AlanaPowell)
 Email: alana.powell@colorado.edu
 LinkedIn: https://www.linkedin.com/in/alanabrookepowell/
+CV: <a href="./assets/AB_Powell_CV_2025.pdf" target="_blank" class="btn">
+  📄 Download Resume (PDF)
+</a>
 Location: Richland, WA
 
 
